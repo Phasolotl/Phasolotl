@@ -8,7 +8,9 @@ Main languages: Python, C/C++ (relearning).
 ## 🚀 About Me
 
 You see, I am rather passionate with talking about modding and it always baffles me how much people can push the limits of a game with mods. I aspire to be in a team of developers that can push the boundaries of what's possible and what's not.
+
 I am a storywriter and a novice programmer, trying their best, out of their own passion while trying to bulldoze through my CS cirriculum with straight As. I make projects that makes me curious or looks cool, like bringing an AI's existence into other chatting platform like discord.
+
 I also like to lobotomize AIs and curious to observe it's patterns and how it behaves under chaos. That is why I am also learning Machine Learning and then AI at some point.
 
 Opportunities will arise when i see one, and i'll gladly take whatever to inflate my CV, so feel free to reach out to me, I still freelance :D
@@ -22,13 +24,16 @@ Opportunities will arise when i see one, and i'll gladly take whatever to inflat
   - C/C++ (Basic)
   - GoLang (Learning)
   - ???
+  
 + **Concepts**
   - Data Structure (Intermediate, learning)
   - Algorithm (Intermediate, learning)
   - OOP (Intermediate, learning)
   - Functional Programming (Basic, learning)
-  - Vibe Coding (non-existent, might learn)  
-+ **Tools & Frameworks:** Git, VSCode, JetBrains, Copilot, basic Linux commands  
+  - Vibe Coding (non-existent, might learn)
+    
++ **Tools & Frameworks:** Git, VSCode, JetBrains, Copilot, basic Linux commands
+  
 + **Currently Learning:** CS Disciplines, Advanced Algorithms, Machine Learning, Game development
 
 ---
