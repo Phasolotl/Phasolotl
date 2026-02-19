@@ -34,11 +34,6 @@ Opportunities will arise when i see one, and i'll gladly take whatever to inflat
 + **Tools & Frameworks:** Git, VSCode, JetBrains, Copilot, basic Linux commands
   
 + **Currently Learning:** CS Disciplines, Advanced Algorithms, Machine Learning, Game development
-  
-
-## 📈 Stats (because numbers go up gives fun and dopamine!)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Phasolotl&show_icons=true&theme=radical)
 
 
 ## 📫 Contact
