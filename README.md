@@ -5,7 +5,7 @@ Main languages: Python, C/C++ (relearning).
 
 ---
 
-## 🚀 About Me
+## ⭐ About Me
 
 You see, I am rather passionate with talking about modding and it always baffles me how much people can push the limits of a game with mods. I aspire to be in a team of developers that can push the boundaries of what's possible and what's not.
 
@@ -16,7 +16,7 @@ I also like to lobotomize AIs and curious to observe it's patterns and how it be
 Opportunities will arise when i see one, and i'll gladly take whatever to inflate my CV, so feel free to reach out to me, I still freelance :D
 
 
-## 🛠 Skills
+## ✨ Skills
 
 + **Languages**
   - Python (Intermediate)
@@ -36,7 +36,7 @@ Opportunities will arise when i see one, and i'll gladly take whatever to inflat
 + **Currently Learning:** CS Disciplines, Advanced Algorithms, Machine Learning, Game development
 
 
-## 📫 Contact
+## 💫 Contact
 
 - Discord: phikax
 - Email: phishwater4@gmail.com (my spam email so go wild :D)
