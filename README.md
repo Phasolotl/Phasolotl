@@ -2,7 +2,7 @@
 
 # CODE NAME: PHI
 
-I go by Phi as my alias. I’m a first-year Computer Science student from Cambodia, surviving wth a dose of caffeine and recursions.  
+## I go by Phi as my alias. I’m a first-year Computer Science student from Cambodia, surviving wth a dose of caffeine and recursions.  
 
 ![hi](https://media1.tenor.com/m/Nrpmif9DljAAAAAd/youtube-twitch.gif)
 
