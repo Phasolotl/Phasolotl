@@ -41,7 +41,7 @@ Opportunities will arise when i see one, and i'll gladly take whatever to inflat
 
 ## 💫 Contact
 
-- Discord: phikax
+- Discord: no
 - Email: phishwater4@gmail.com (my spam email so go wild :D)
 - Website: Not coming soon
 
