@@ -2,7 +2,7 @@
 
 # CODE NAME: PHI
 
-## I go by Phi as my alias. I’m a first-year Computer Science student from Cambodia, surviving wth a dose of caffeine and recursions.  
+## I go by Phi as my alias. I’m a first-year Computer Science student, surviving wth a dose of caffeine and recursions.  
 
 ![hi](https://media1.tenor.com/m/Nrpmif9DljAAAAAd/youtube-twitch.gif)
 
@@ -23,15 +23,19 @@ Opportunities will arise when i see one, and i'll gladly take whatever to inflat
 
 + **Languages**
   - Python (Intermediate)
+  - PostgreSQL (Intermediate)
   - C/C++ (Basic)
   - GoLang (Learning)
-  - ???
+  - HTML + CSS (Intermediate)
+  - Javascript (Basic to Intermediate)
   
 + **Concepts**
   - Data Structure (Intermediate, learning)
   - Algorithm (Intermediate, learning)
   - OOP (Intermediate, learning)
   - Functional Programming (Basic, learning)
+  - Web Design (Intermediate, learning)
+  - Database Management (Intermediate, learning)
   - Vibe Coding (non-existent, might learn)
     
 + **Tools & Frameworks:** Git, VSCode, JetBrains, Copilot, basic Linux commands
